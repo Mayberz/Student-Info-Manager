@@ -1,0 +1,10 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: StudentInfoManager
+  data:
+    mongodb:
+      database: Mayberz
+      uri: mongodb+srv://Mayberz:78690@mayberz.vpjxi.mongodb.net/?retryWrites=true&w=majority&appName=Mayberz 
+
