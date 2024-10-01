@@ -9,7 +9,7 @@
 * Spring Data JPA
 * MongoDB
 * Docker
-* Kubernates
+* Kubernetes
 * Junit
 * Mockito
 * Lombhok
@@ -17,7 +17,7 @@
 
 **Note:** 
 
-* you can also test the application wihout using kubernates,All you need to do is change the profile  name to 'test'.
+* you can also test the application wihout using kubernetes,All you need to do is change the profile  name to 'test'.
 * Customize the database properties according to their specific requirements before deploying the application
 * in sim-mongo-configMap.yaml configure your own encoded secrets(username,password) based on your needs.
 
