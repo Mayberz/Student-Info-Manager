@@ -1,0 +1,8 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: StudentInfoManager
+  data:
+    mongodb:
+     uri: "mongodb://Mayberz:78690@localhost:27017/MongoBase?authSource=MongoBase"

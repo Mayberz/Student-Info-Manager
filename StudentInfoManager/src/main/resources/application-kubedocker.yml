@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: StudentInfoManager
+  data:
+    mongodb:
+     uri: ${SPRING_DATA_MONGODB_URI} 
